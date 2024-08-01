@@ -1,0 +1,13 @@
+asteroidSensor(asteroidClone,objectIndex(3),intPair(y(5496))).
+asteroidSensor(asteroidClone,objectIndex(5),intPair(x(8727))).
+asteroidSensor(asteroidClone,objectIndex(2),intPair(y(6054))).
+asteroidSensor(asteroidClone,objectIndex(2),intPair(x(315))).
+asteroidSensor(asteroidClone,objectIndex(3),intPair(x(6750))).
+asteroidSensor(asteroidClone,objectIndex(4),intPair(y(826))).
+asteroidSensor(asteroidClone,objectIndex(4),intPair(x(-10221))).
+asteroidSensor(asteroidClone,objectIndex(5),intPair(y(7582))).
+playerSensor(player,objectIndex(1),intPair(rotationZ(-2))).
+playerSensor(player,objectIndex(1),player(velocityY(0))).
+playerSensor(player,objectIndex(1),player(velocityX(0))).
+playerSensor(player,objectIndex(1),intPair(y(0))).
+playerSensor(player,objectIndex(1),intPair(x(0))).
